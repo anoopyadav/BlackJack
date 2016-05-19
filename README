@@ -1,0 +1,16 @@
+Notes:
+* Any Ace + Face Card = Blackjack
+* BlackJack for player results is a 3:2 payoff
+* In case of tie, player loses (except when player has a blackjack)
+* Doubling down is only offered when player has enough cash
+* Split is offered when the player has two same-valued cards (irrespective of suite)
+* If the player goes bust, he loses the bet (even if the dealer goes bust in the same round).
+* The program shows the appropriate total (hard or soft) in case of player.
+
+Execution:
+* Extract Blackjack.tar.gz
+* All files should be in the same directory 
+* Main.rb is included, which should be executed as "ruby Main.rb"
+
+Other Notes
+* Sample Main.rb simulates one round of play on the table with multiple players
